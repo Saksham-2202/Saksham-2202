@@ -61,36 +61,35 @@ const saksham = {
 ![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
 
 ---
-
-## 🏗️ Projects
+## 🏗️ Projects & Hackathons
 
 <table>
 <tr>
 <td width="50%">
 
 ### 🚌 LOCO BUS
-> SIH '25 Finalist Project
+> 🏅 SIH '25 Finalist — Smart India Hackathon
 
 Real-time bus tracking **Admin Panel Dashboard** for public transport systems.
 
 - 🔴 Live fleet tracking on map
-- 📋 Complaint management system
-- 🔔 Notification & admin control modules
-- 🔥 Powered by Firebase Firestore
+- 📋 Complaint & notification management
+- 🔥 Firebase Firestore backend
+- 👨‍💻 Role: Frontend Development
 
 `HTML` `CSS` `JavaScript` `Firebase`
 
 </td>
 <td width="50%">
 
-### 🧠 Quiz App
-> Interactive Learning Tool
+### 🏦 BACHTAGURU
+> 🏅 PSB Hackathon — Top 30 across Punjab
 
-Dynamic quiz application with real-time answer tracking and result feedback.
+Web-based **financial awareness & fraud simulator** for banking security education.
 
-- ✅ Answer validation & scoring
-- 📊 Final results with feedback
-- 🎨 Clean responsive UI
+- 🎯 Interactive quiz on financial literacy
+- 🕵️ Fraud simulation scenarios
+- 🌐 Built for Punjab & Sind Bank Hackathon
 
 `HTML` `CSS` `JavaScript`
 
@@ -99,35 +98,34 @@ Dynamic quiz application with real-time answer tracking and result feedback.
 <tr>
 <td width="50%">
 
-### 🐶 Dog Breed Finder
-> API Integration Project
+### 🧠 Quiz App
+> Personal Project
 
-Search tool that fetches and displays breed-specific images using external API.
+Dynamic quiz app with real-time scoring and feedback system.
 
-- 🔍 Live search by breed name
-- 🖼️ Dynamic image rendering
-- 🌐 External API integration
+- ✅ Answer validation & live scoring
+- 📊 Final result with performance feedback
+- 🎨 Clean responsive UI
 
-`HTML` `CSS` `JavaScript` `REST API`
+`HTML` `CSS` `JavaScript`
 
 </td>
 <td width="50%">
 
-### 🔨 Next Project
-> Coming Soon...
+### 🐶 Dog Breed Finder
+> API Integration Project
 
-Currently building something with **React / Next.js**.
+Search tool fetching breed-specific images via external Dog API.
 
-- 🚧 Work in progress
-- 💡 Full-stack focus
-- ⚡ Dropping soon
+- 🔍 Live breed search
+- 🖼️ Dynamic image rendering
+- 🌐 REST API integration
 
-`React` `Next.js` `Node.js`
+`HTML` `CSS` `JavaScript` `REST API`
 
 </td>
 </tr>
 </table>
-
 ---
 
 ## 🏆 Achievements & Certifications
