@@ -1,11 +1,11 @@
 <div align="center">
 
-![](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Saksham&fontSize=90&fontColor=ffffff&desc=Full-Stack%20Problem%20Solver%20%7C%20React%20%2F%20Next.js&descSize=18&descAlignY=75)
+![](https://capsule-render.vercel.app/api?type=slice&color=0:00B4D8,100:0077B6&height=200&section=header&text=Saksham&fontSize=80&fontColor=ffffff&fontAlign=70&desc=Full-Stack%20Problem%20Solver&descAlign=70&descAlignY=75&descSize=20)
 
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Full-Stack+Problem+Solver+%F0%9F%9A%80;React+%2F+MERN+Developer;SIH+%2725+Finalist;Building+real+things%2C+one+commit+at+a+time." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Full-Stack+Problem+Solver+%F0%9F%9A%80;MERN+Developer;SIH+%2725+Finalist;Building+real+things%2C+one+commit+at+a+time." alt="Typing SVG" />
 </div>
 
 <div align="center">
