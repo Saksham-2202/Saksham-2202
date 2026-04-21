@@ -1,6 +1,6 @@
 <div align="center">
 
-![](https://capsule-render.vercel.app/api?type=waving&color=00B4D8&height=200&section=header&text=Saksham&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Problem%20Solver&descAlignY=60&descSize=20)
+![](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Saksham&fontSize=90&fontColor=ffffff&desc=Full-Stack%20Problem%20Solver%20%7C%20React%20%2F%20Next.js&descSize=18&descAlignY=75)
 
 </div>
 
