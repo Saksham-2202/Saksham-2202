@@ -1,14 +1,19 @@
+███████╗  █████╗  ██╗  ██╗ ███████╗ ██╗  ██╗  █████╗  ███╗   ███╗
+██╔════╝ ██╔══██╗ ██║ ██╔╝ ██╔════╝ ██║  ██║ ██╔══██╗ ████╗ ████║
+███████╗ ███████║ █████╔╝  ███████╗ ███████║ ███████║ ██╔████╔██║
+╚════██║ ██╔══██║ ██╔═██╗  ╚════██║ ██╔══██║ ██╔══██║ ██║╚██╔╝██║
+███████║ ██║  ██║ ██║  ██╗ ███████║ ██║  ██║ ██║  ██║ ██║ ╚═╝ ██║
+╚══════╝ ╚═╝  ╚═╝  ╚═╝  ╚═╝ ╚══════╝ ╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚═╝     ╚═╝
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Full-Stack+Problem+Solver+%F0%9F%9A%80;React+%2F+MERN+Developer;SIH+%2725+Finalist;Building+real+things%2C+one+commit+at+a+time." alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Full-Stack+Problem+Solver+%F0%9F%9A%80;React+%2F+Next.js+Developer;SIH+%2725+Finalist;Building+real+things%2C+one+commit+at+a+time." alt="Typing SVG" />
-</div>
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saksham-9853b0222/)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00B4D8)](https://github.com/Saksham-2202)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR-LINK)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Saksham2006/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakshamd863@gmail.com)
 
 </div>
@@ -19,13 +24,12 @@
 
 ```ts
 const saksham = {
-  name        : "Saksham",
-  location    : "Jalandhar, Punjab, India",
-  university  : "I.K. Gujral Punjab Technical University (2024–2028)",
-  role        : "CSE Sophomore · Full-Stack Developer",
-  currentFocus: ["MERN Stack", "Next.js", "DSA", "System Design"],
-  achievements: ["SIH '25 Finalist", "PSB Hackathon Top 30", "180+ LeetCode"],
-  funFact     : "Debugs in C++, dreams in JavaScript 🌐",
+  Name        : "Saksham",
+  Location    : "Jalandhar, Punjab, India",
+  University  : "I.K. Gujral Punjab Technical University (2024–2028)",
+  Role        : "CSE Sophomore · Full-Stack Developer",
+  CurrentFocus: ["MERN Stack", "Next.js", "DSA"],
+  Achievements: ["SIH '25 Finalist", "PSB Hackathon Top 30", "180+ LeetCode"],
 };
 ```
 
@@ -133,7 +137,7 @@ Currently building something with **React / Next.js**.
 | 🥈 | **SIH '25 Finalist** | Smart India Hackathon — LOCOBUS project |
 | 🏅 | **PSB Hackathon Top 30** | Financial awareness & fraud simulator (Punjab-wide) |
 | 💻 | **180+ LeetCode Problems** | DSA grind — consistent problem solver |
-| 🎓 | **Oracle Cloud AI Certified** | Generative AI Professional (1Z0-1127-25) |
+| 🎓 | **Oracle Cloud AI Course** | Generative AI Professional Course Completed |
 | 🤖 | **AI Tools Workshop** | ChatGPT & AI Productivity — be10x |
 | 📚 | **Class X School Topper** | 90% — Highest academic performance |
 
