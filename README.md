@@ -1,8 +1,6 @@
 <div align="center">
 
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&height=70&lines=Hi+I'm+Saksham+👋" />
-</h1>
+![](https://capsule-render.vercel.app/api?type=waving&color=00B4D8&height=200&section=header&text=Saksham&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Problem%20Solver&descAlignY=60&descSize=20)
 
 </div>
 
