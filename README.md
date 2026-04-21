@@ -1,6 +1,6 @@
 <div align="center">
 
-![](https://capsule-render.vercel.app/api?type=venom&color=0:00B4D8,50:0077B6,100:023E8A&height=250&text=Saksham&fontSize=100&fontColor=00ffff&stroke=00B4D8&strokeWidth=3&animation=twinkling)
+![](https://capsule-render.vercel.app/api?type=shark&color=0:00B4D8,100:023E8A&height=200&text=Saksham&fontSize=100&fontColor=ffffff&fontAlignY=40&animation=fadeIn)
 
 </div>
 
