@@ -1,6 +1,6 @@
 <div align="center">
 
-![](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=80&pause=99999&color=FFFFFF&center=true&vCenter=true&width=600&height=120&lines=Saksham)
+![](https://readme-typing-svg.demolab.com?font=Raleway&weight=100&size=90&pause=99999&color=FFFFFF&center=true&vCenter=true&width=600&height=120&lines=Saksham)
 
 </div>
 
