@@ -1,9 +1,10 @@
-███████╗  █████╗  ██╗  ██╗ ███████╗ ██╗  ██╗  █████╗  ███╗   ███╗
-██╔════╝ ██╔══██╗ ██║ ██╔╝ ██╔════╝ ██║  ██║ ██╔══██╗ ████╗ ████║
-███████╗ ███████║ █████╔╝  ███████╗ ███████║ ███████║ ██╔████╔██║
-╚════██║ ██╔══██║ ██╔═██╗  ╚════██║ ██╔══██║ ██╔══██║ ██║╚██╔╝██║
-███████║ ██║  ██║ ██║  ██╗ ███████║ ██║  ██║ ██║  ██║ ██║ ╚═╝ ██║
-╚══════╝ ╚═╝  ╚═╝  ╚═╝  ╚═╝ ╚══════╝ ╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚═╝     ╚═╝
+<div align="center">
+
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&height=70&lines=Hi+I'm+Saksham+👋" />
+</h1>
+
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Full-Stack+Problem+Solver+%F0%9F%9A%80;React+%2F+MERN+Developer;SIH+%2725+Finalist;Building+real+things%2C+one+commit+at+a+time." alt="Typing SVG" />
